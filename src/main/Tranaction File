@@ -1,0 +1,54 @@
+package com.ps
+//we need to make different classes for the different catagories in the ledger. This ledger is only suppposed to be looked at by the
+//by the company. Data that will be private include: date, time, description and vendor
+
+
+private class Ledger{
+    private String date;
+    private String time;
+    private string description;
+    private string vendor;
+    private int amount;
+
+    //make an if statement is neegative or positive
+    if(x>20){
+    systme.println("deposit")
+    }
+    if(x<20){
+    system.out.println("withdraw")
+
+    }
+
+    // How do I load variables of the static
+
+    //Create sample do while to go to deposits home and reports menu
+    // adding deposits and withdraws into the home menu
+
+    //do
+      //{
+          // Ho
+          Update_expression
+      }
+
+      // Condition check
+      while (test_expression);
+
+      // do Le
+         {
+             // Loop Body
+             Update_expression
+         }
+
+         // Condition check
+         while (test_expression);
+
+         // do le
+            {
+                // Loop Body
+                Update_expression
+            }
+
+            // Condition check
+            while (test_expression);
+
+
